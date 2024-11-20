@@ -86,3 +86,7 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/daily-goal-tracker.git
    cd daily-goal-tracker
+## Usage
+
+1. run `node server.js`
+2. Navigate to `localhost:1234`
