@@ -9,6 +9,13 @@ Daily Goal Tracker is a web application designed to help users track and maintai
 
 ---
 
+Check it out here:
+
+
+(https://habittracker.up.railway.app/)
+
+---
+
 
 ## Table of Contents
 - [Features](#features)
