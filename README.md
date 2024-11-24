@@ -3,8 +3,11 @@
 Daily Goal Tracker is a web application designed to help users track and maintain their daily goals and habits. This project showcases not only the final application but also the skills and technologies I learned and applied while developing it. From backend development to integrating APIs and creating a dynamic, responsive UI, this project has been a comprehensive learning experience.
 
 ---
-<img width="1359" alt="homePage" src="https://github.com/user-attachments/assets/575b50b6-e877-4893-bdab-bd5153e0d36b">
 
+<img width="1459" alt="Screenshot 2024-11-24 at 3 06 11 PM" src="https://github.com/user-attachments/assets/c914e764-2997-438b-b0c6-e56d9be43375">
+
+
+---
 
 
 ## Table of Contents
